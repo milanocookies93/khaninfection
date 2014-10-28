@@ -11,6 +11,9 @@ From there you may use the total or limited infections, add or remove users, or 
 An example tester1 is set up in main.cpp
 
 TODO
+
 -Provide a visualizer
+
 -Encapsulate objects
+
 -Make a better limited_infection by using the numstudents value the user has
